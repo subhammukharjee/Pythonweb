@@ -1,2 +1,2 @@
-# Python-using-pandas
-Python for Data Science using Pandas
+# Python For Data Science
+Data Analytics using Python
